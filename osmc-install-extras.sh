@@ -194,8 +194,9 @@ echo '{
 ' > /etc/transmission-daemon/settings.json
 #sudo chown debian-transmission:debian-transmission /etc/transmission-daemon/settings.json
 sudo chown root:osmc /etc/transmission-daemon
+sudo chmod 777 /etc/transmission-daemon
 sudo chown osmc:osmc /etc/transmission-daemon/settings.json
-sudo chmod 600 /etc/transmission-daemon/settings.json
+sudo chmod 666 /etc/transmission-daemon/settings.json
 
 
 
