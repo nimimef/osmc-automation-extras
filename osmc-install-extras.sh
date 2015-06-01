@@ -149,16 +149,6 @@ name = sickrage
 script = Default
 newzbin = ""
 dir = '$STORAGEDIR''$SICKRAGE_DOWNLOADDIR'
-[servers]
-[[reader.usenetbucket.com]]
-enable = 1
-fillserver = 0
-connections = 25
-ssl = 1
-timeout = 120
-optional = 0
-port = 563
-retention = 1100
 ' > /home/osmc/.sabnzbd/sabnzbd.ini
 sudo service sabnzbdplus start
 
