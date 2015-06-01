@@ -71,6 +71,7 @@ PORT_KODI=8888
 ```
 Hit Ctrl+X, Y and Enter to save and exit.
 
+Optionally you should format your usb storage device to ext4 for best results
 
 When you're ready, run the installer
 ```sh
