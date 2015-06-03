@@ -1,6 +1,6 @@
 # OSMC Automation extras
 
-*Install utility for OSMC, SabNZBd+, Transmisison, CouchPotato & SickRage on a raspberry pi 1 or 2*
+*Install utility for OSMC, SabNZBd+, Transmission, CouchPotato & SickRage on a raspberry pi 1 or 2*
 
 ## Create OSMC image
 
