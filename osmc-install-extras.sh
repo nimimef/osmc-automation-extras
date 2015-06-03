@@ -256,6 +256,7 @@ enabled = 1
 host = localhost:'$PORT_KODI'
 password = '$PASSWORD'
 meta_enabled = 1
+force_full_scan = 1
 meta_thumbnail = 0
 meta_nfo = 0
 meta_fanart = 0
@@ -438,6 +439,8 @@ torrent_host = http://localhost:'$PORT_TRANSMISSION'/
 torrent_path = '$STORAGEDIR''$SICKRAGE_DOWNLOADDIR'
 [KODI]
 use_kodi = 1
+kodi_update_library = 1
+kodi_update_full = 1
 kodi_host = 0.0.0.0:'$PORT_KODI'
 kodi_username = '$USERNAME'
 kodi_password = '$PASSWORD'
